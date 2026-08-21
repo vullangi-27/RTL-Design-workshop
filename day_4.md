@@ -168,6 +168,8 @@ always @ (*) begin
 end
 ```
 
+
+
 <img width="1280" height="800" alt="badmux" src="https://github.com/user-attachments/assets/aa78335b-f4fb-4700-98a8-a92e3cb997de" />
 
 
