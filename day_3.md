@@ -267,8 +267,7 @@ The following results illustrate optimization applied across multiple interconne
 
 <img width="1920" height="922" alt="countershow" src="https://github.com/user-attachments/assets/cb90f2e6-fc2f-4ef5-9d7f-84ae3cfdfb38" />
 
----
-
+<img width="1600" height="647" alt="WhatsApp Image 2026-08-22 at 9 30 16 AM" src="https://github.com/user-attachments/assets/e70d5560-90fd-421d-8fad-af3af59f5d99" />
 ## Summary
 
 **Focus:** This session covered key optimization techniques for combinational and sequential circuits in digital design, reinforced through hands-on Verilog labs.
